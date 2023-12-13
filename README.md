@@ -1,12 +1,12 @@
 # LearningPhase 
 
-# JavaScript  Projects Repository
+## JavaScript  Projects Repository
 
 Coming soon..
 
 
 
-# React Projects Repository
+##  React Projects Repository
 
 Welcome to my React projects repository! This collection features various React applications showcasing different concepts and functionalities.
 

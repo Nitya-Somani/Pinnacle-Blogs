@@ -18,7 +18,7 @@ console.log(s.length);
 console.log(s.toUpperCase());
 console.log(s);
 
-
+//Go to mdn Docs for all the functions of strings 
 
 
 

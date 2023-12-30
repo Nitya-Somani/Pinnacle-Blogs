@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LearningPhase
 
 ## JavaScript Projects Repository
@@ -130,3 +131,6 @@ Make sure you have Node.js and npm installed.
 4. Navigate to the specific project folder and run:
 
    npm start
+=======
+# Pinnacle-Blogs
+>>>>>>> aeaec527f1039b73cb745e9110b30161c09a7729
